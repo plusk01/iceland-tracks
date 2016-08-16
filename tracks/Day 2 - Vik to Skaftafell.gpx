@@ -2,10 +2,10 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="Adze - http://kobotsw.com/apps/adze" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
     <metadata>
         <name>Untitled Document</name>
-        <time>2016-08-16T15:43:24.249Z</time>
+        <time>2016-08-16T15:44:51.401Z</time>
     </metadata>
     <trk>
-        <name>Day 2: Vik to Hofn</name>
+        <name>Day 2: Vik to Skaftafell</name>
         <extensions>
             <gpxx:TrackExtension>
                 <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
